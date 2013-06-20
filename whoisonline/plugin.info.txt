@@ -1,0 +1,7 @@
+base   whoisonline
+author Matthew Mills
+email  millsm@csus.edu
+date   2013-06-12
+name   whoisonline plugin
+desc   Tracks who is online and where they are from
+url    http://www.csus.edu
