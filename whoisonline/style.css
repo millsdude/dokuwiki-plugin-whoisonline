@@ -18,9 +18,9 @@
 .WIO_count{
 	color:#777777;
 	float:left;
-	font-size:26px;
+	font-size:18px;
 	font-weight:bold;
-	margin-top:3px;
+	padding: 0px 0px 0px 4px;
 	text-align:center;
 	width:auto;
 }
@@ -30,7 +30,7 @@
 	font-size:18px;
 	font-weight:bold;
 	text-align:center;
-	padding: 4px 0 0 4px;
+	padding: 0px 0px 0px 4px;
 	text-transform:uppercase;
 }
 
